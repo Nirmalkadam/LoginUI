@@ -1,6 +1,6 @@
 # LoginUI
  
- # Project Title  Expenses Application
+ # Project Title  LOGIN-UI
 
 A brief description of what this project does and who it's for:
  
